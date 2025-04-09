@@ -1,0 +1,21 @@
+## venv
+llm-application/
+
+# 환경 설정
+.env
+.python-version
+
+# VSCode settings (optional)
+.vscode/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+## env
+.env

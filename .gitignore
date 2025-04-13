@@ -19,3 +19,6 @@ __pycache__/
 
 ## env
 .env
+
+## tour vector
+tour_pet/
